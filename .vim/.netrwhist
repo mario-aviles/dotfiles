@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/m/Escritorio/first_app'
+let g:netrw_dirhist_2='/home/m/Escritorio/first_app/app'
+let g:netrw_dirhist_3='/home/m/Escritorio/first_app/app/controllers'
+let g:netrw_dirhist_4='/home/m/Escritorio/odot'
+let g:netrw_dirhist_5='/home/m/Escritorio'
+let g:netrw_dirhist_6='/home/m/Escritorio/odot'
